@@ -1,5 +1,5 @@
 {
-  "name": "drupal/commerce_marketplace",
+  "name": "meladawy/commerce_marketplace",
   "type": "drupal-module",
   "description": "Implements multiple stores/store owners model.",
   "license": "GPL-2.0+",
